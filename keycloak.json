@@ -1,0 +1,8 @@
+{
+  "realm" : "external-users",
+  "realm-public-key" : "xv5-LbinXrEvOMjA_phtrs4i8gqwXmcR7ZkOKtK3_7E",
+  "auth-server-url" : "https://165.22.226.137:8443/auth",
+  "ssl-required" : "external",
+  "resource" : "sso-demo",
+  "public-client" : true
+}
